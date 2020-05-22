@@ -43,7 +43,7 @@ int main(int argc, char *argv[])
     int uart0_filestream = -1;
 
     char devname[20];
-    sprintf(devname, "/dev/serial0");
+    sprintf(devname, "/dev/ttyUSB0");
 
     for (i = 1; i < argc; i++) {
 

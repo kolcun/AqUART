@@ -6,7 +6,7 @@ compile with:
 gcc aquart.c -o aquart
 
 
-run with default port (serial0):
+run with default port (ttyUSB0):
 
 sudo ./aquart
 
