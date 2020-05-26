@@ -1,0 +1,225 @@
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 02 00 12 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 02 00 12 40 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 02 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 02 00 12 40 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 02 00 12 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+RX <= 10 02 00 
+RUN OF THE TEST
+using device --> /dev/ttyUSB0
+open UART 
+read attrs cflag = 2237
+sent attrs 2237
+TX => 10 02 50 00 62 10 03 
+RX <= 10 02 00 01 00 00 13 10 03 
+TX => 10 02 50 11 0a 7d 10 03 
+UART RX ERROR
