@@ -85,6 +85,7 @@ int main(int argc, char *argv[])
     rc = tcgetattr(uart0_filestream, &options);
 	printf("sent attrs %d\n",options.c_cflag);
 
+    int ret;
 
     rc = sendpack(msg_probe,uart0_filestream);   // message, its length, and the uart handle
     if(rc == 1) return 0;
